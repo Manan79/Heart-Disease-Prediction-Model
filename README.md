@@ -63,6 +63,8 @@ An advanced, interactive web application built with Streamlit that predicts the 
 4. **Run the application:**
    ```bash
    streamlit run app.py
+   OR
+   python -m streamlit run app.py
    ```
 
 ## 🚀 How to Use the Application
